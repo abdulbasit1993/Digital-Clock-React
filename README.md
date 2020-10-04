@@ -1,6 +1,6 @@
 ## Live Demo
-Check out the Web App in action using below link:
-https://5f78b566ae6fb2cf45efa341--digital-clock-react.netlify.app/
+Check out the Web App in action using this link:
+https://digital-clock-react.netlify.app/
 
 ## React JS Notes
 
