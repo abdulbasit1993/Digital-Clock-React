@@ -15,11 +15,11 @@ const App = () => {
 
   return (
     <div className="clock-container">
-      <h2>Digital Clock using React JS</h2>
+      <h2 className="heading">Digital Clock using React JS</h2>
       <h1 className="clock-text"> {cTime} </h1>
 
       <footer className="footer">
-        <h2>Made by: Abdul Basit Mehtab</h2>
+        <h2 className="footer-text">Made by: Abdul Basit Mehtab</h2>
       </footer>
     </div>
   );
