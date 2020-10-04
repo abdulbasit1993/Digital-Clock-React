@@ -1,3 +1,9 @@
+## Live Demo
+Check out the Web App in action using below link:
+https://5f78b566ae6fb2cf45efa341--digital-clock-react.netlify.app/
+
+## React JS Notes
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
